@@ -9,7 +9,7 @@ Material: ABS or ASA
  
 Use supports and brim as needed
  
-Parts in STL allready in printing position.
+STL's allready in printing position.
  
 The 2 ducts are interchangeable.
 
