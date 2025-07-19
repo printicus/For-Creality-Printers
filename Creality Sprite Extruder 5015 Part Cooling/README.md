@@ -22,3 +22,5 @@ M3 Nuts x2
 M3x8 BHCS or SHCS Screw x2
  
 M4x20 BHCS or SHCS Srew x1 or x2, depending on wich version you are printing
+
+The M4 screw(s) will be threaded directly in the printed part, so go gently to not crack the part.
