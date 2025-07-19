@@ -1,2 +1,2 @@
 # For-Creality-Printers
-Parts, moded parts and accessories for Creality Printers
+Better part cooling solution for creality sprite extrder. featuring single or dual 5015 fans.
