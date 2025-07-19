@@ -1,6 +1,8 @@
 # For-Creality-Printers
 Better part cooling solution for creality sprite extrder. featuring single or dual 5015 fans.
 
+https://github.com/printicus/For-Creality-Printers/blob/main/Creality%20Sprite%20Extruder%205015%20Part%20Cooling/Images/Image%2001.jpg
+
 Printing:
 
 Material: ABS or ASA
