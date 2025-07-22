@@ -1,4 +1,4 @@
-# For-Creality-Printers
+# Better Cooling for Creality Sprite Extruder
 Better part cooling solution for creality sprite extrder. featuring single or dual 5015 fans.
 
 Printing:
