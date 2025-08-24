@@ -1,7 +1,7 @@
 # Better Cooling for Creality Sprite Extruder
 Better part cooling solution for creality sprite extrder, featuring single or dual 5015 fans.
 
-![](Creality Sprite Extruder 5015 Part Cooling/Images/Image 01.jpg)
+ ![](Images/Image01.jpg?raw=true)
 
 Printing:
 
@@ -26,5 +26,6 @@ M3x8 BHCS or SHCS Screw x2
 M4x20 BHCS or SHCS Srew x1 or x2, depending on wich version you are printing
 
 The M4 screw(s) will be threaded directly in the printed part, so go gently to not crack the part.
+
 
 
